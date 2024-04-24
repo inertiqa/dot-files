@@ -6,7 +6,7 @@
 # !! THIS WILL DELETE YOUR EXISTING $HOME FOLDERS AND ANYTHING INSIDE IT !!
 # !! MAKE SURE ALL THE IMPORTANT INFORMATION IS SAVED BEFOREHAND !!
 
-#REPLACE userName/diskName/ WITH YOUR OWN
+#REPLACE userName/diskName WITH YOUR OWN
 
 rm -r ~/Desktop ~/Documents ~/Music ~/Pictures ~/Public ~/Repositories ~/Templates ~/Videos
 ln -s /media/userName/diskName/Desktop ~/Desktop
