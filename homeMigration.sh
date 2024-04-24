@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# read more about this script here:
+# https://gist.github.com/necronomimicon/075f56e62ca28c3b36b6794b755a211c
+
 # !! THIS WILL DELETE YOUR EXISTING $HOME FOLDERS AND ANYTHING INSIDE IT !!
 # !! MAKE SURE ALL THE IMPORTANT INFORMATION IS SAVED BEFOREHAND !!
 
