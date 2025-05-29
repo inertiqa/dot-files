@@ -1,0 +1,3 @@
+users/admin/qmk_firmware/keyboards/crkbd/keymaps/inertiqa
+
+qmk compile -kb crkbd/rev1 -km inertiqa6548
