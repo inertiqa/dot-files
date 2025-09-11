@@ -1,3 +1,11 @@
-users/admin/qmk_firmware/keyboards/crkbd/keymaps/inertiqa
-
-qmk compile -kb crkbd/rev1 -km inertiqa6548
+- go to https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3 and configure keymap, or upload your current keymap.json
+- edit and save to you hearts content
+- place keymap.json on: users/admin/qmk_firmware/keyboards/crkbd/keymaps/inertiqa
+- compile firmware with: qmk compile -kb crkbd/rev1 -km inertiqa
+- grab fresh baked .hex file found in: users/admin/qmk_firmware/
+- open qmktoolbox.exe, load fresh .hex file, tik "auto-flash"
+- unplug keyboard, split keyboard
+- connect one side (secondary first?), press button on keyboard
+- do both sides, disconnect keyboard
+- rejoin keyboard, connect keyboard
+- enjoy
