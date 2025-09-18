@@ -45,7 +45,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // RGB Matrix Animation modes. Explicitly enabled
 // For full list of effects, see:
 // https://docs.qmk.fm/#/feature_rgb_matrix?id=rgb-matrix-effects
-#    define ENABLE_RGB_MATRIX_PIXEL_RAIN
 #    define ENABLE_RGB_MATRIX_DIGITAL_RAIN
 #    define ENABLE_RGB_MATRIX_BREATHING
 #endif
+
+#define MK_KINETIC_SPEED // change mouse movement mode to kinetic
+// For full list of configuration, see:
+// https://docs.qmk.fm/features/mouse_keys
