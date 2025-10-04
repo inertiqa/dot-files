@@ -60,7 +60,7 @@
       "KC_7",
       "KC_8",
       "KC_9",
-      "KC_NO",
+      "KC_0",
       "KC_NO",
       "KC_VOLU",
       "KC_LSFT",
@@ -91,8 +91,8 @@
       "KC_TRNS",
       "KC_SPC",
       "KC_ENT",
-      "KC_0",
-      "KC_LGUI"
+      "MO(3)",
+      "KC_0"
     ],
     [
       "RM_TOGG",
@@ -151,7 +151,7 @@
       "LSFT(KC_9)",
       "LSFT(KC_0)",
       "KC_MINS",
-      "KC_CAPS",
+      "KC_LSFT",
       "RALT(KC_1)",
       "RALT(KC_2)",
       "RALT(KC_3)",
@@ -175,7 +175,7 @@
       "RALT(KC_NUHS)",
       "KC_NUBS",
       "LSFT(KC_NUBS)",
-      "KC_LALT",
+      "KC_CAPS",
       "KC_TRNS",
       "KC_SPC",
       "KC_ENT",
